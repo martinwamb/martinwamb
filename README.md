@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a storyteller. I love to use data to come to conclusions on my projects. All the data analyzed using SQL, Python, and PowerBI is contained in various folders here. You can read my stories at www.martinwambugu.com
 
 <!--
 **martinwamb/martinwamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
